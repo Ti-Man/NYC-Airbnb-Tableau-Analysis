@@ -18,7 +18,7 @@ A three-page Tableau dashboard analysing 48,895 New York City Airbnb listings to
 ### Page 1 — Executive Overview
 *Target audience: Leadership stakeholders*
 
-![Executive Overview](./screenshots/executive_overview.png)
+![Executive Overview](./executive_overview.png)
 
 A high-level view of the NYC rental market combining a geographic dot map, borough-level pricing comparison, room type composition, and a time series of review activity from 2015–2019.
 
@@ -32,7 +32,7 @@ A high-level view of the NYC rental market combining a geographic dot map, borou
 ### Page 2 — Revenue & Pricing Analysis
 *Target audience: Finance stakeholders*
 
-![Revenue & Pricing](./screenshots/revenue_pricing.png)
+![Revenue & Pricing](./revenue_pricing.png)
 
 Neighbourhood-level pricing ranked by average nightly rate (top 15, minimum 10 listings), alongside a scatter plot of individual listing price vs availability showing how pricing distributes across the full market.
 
@@ -46,7 +46,7 @@ Neighbourhood-level pricing ranked by average nightly rate (top 15, minimum 10 l
 ### Page 3 — Operational Performance
 *Target audience: Operations / Property Management*
 
-![Operational Performance](./screenshots/operational_performance.png)
+![Operational Performance](./operational_performance.png)
 
 Borough-level occupancy rate proxy calculated as `(365 - AVG(Availability 365)) / 365`, paired with an analytical text annotation connecting the numbers to real operational decisions.
 
