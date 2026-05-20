@@ -87,7 +87,7 @@ Four-sheet workbook built as an analytical companion to the Tableau dashboard.
 | 3 — KPI Summary | 15 KPIs with live formula references · Financial model colour conventions |
 | 4 — What-If Pricing Model | Input your rate, occupancy %, listings, fees, and costs → net profit recalculates automatically, benchmarked vs Brooklyn and Manhattan averages |
 
-📁 File: [`NYC_Airbnb_Companion_Workbook.xlsx`](./NYC_Airbnb_Companion_Workbook.xlsx)
+📁 File: [`NYC_Airbnb_Companion_Workbook.xlsx`](./NYC_Airbnb_Workbook.xlsx)
 
 ---
 
