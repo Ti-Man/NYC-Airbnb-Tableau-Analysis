@@ -20,7 +20,7 @@ Interact with all three dashboard pages directly in your browser — no software
 ### Page 1 — Executive Overview
 *Target audience: Leadership stakeholders*
 
-![Executive Overview](.executive_overview.png)
+![Executive Overview](./screenshots/executive_overview.png)
 
 A high-level view of the NYC rental market combining a geographic dot map, borough-level pricing comparison, room type composition, and a time series of review activity from 2015–2019.
 
