@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/28039030/README.1.md)
+[README.md](https://github.com/user-attachments/files/28039157/README.md)
 # NYC Airbnb Market Analysis — Tableau Dashboard
 
 **Valentine Emehige | Data Analyst**
@@ -87,7 +87,7 @@ Four-sheet workbook built as an analytical companion to the Tableau dashboard.
 | 3 — KPI Summary | 15 KPIs with live formula references · Financial model colour conventions |
 | 4 — What-If Pricing Model | Input your rate, occupancy %, listings, fees, and costs → net profit recalculates automatically, benchmarked vs Brooklyn and Manhattan averages |
 
-📁 File: [`NYC_Airbnb_Companion_Workbook.xlsx`](./NYC_Airbnb_Workbook.xlsx)
+📁 File: [`NYC_Airbnb_Companion_Workbook.xlsx`](./NYC_Airbnb_Companion_Workbook.xlsx)
 
 ---
 
